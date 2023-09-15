@@ -1,0 +1,19 @@
+[I 16:24:16.670 NotebookApp] Serving notebooks from local directory: /home/clemencegranade/assignments/ass4
+[I 16:24:16.670 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 16:24:16.670 NotebookApp] https://ip-172-31-6-178:8888/
+[I 16:24:16.670 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:24:23.263 NotebookApp] 302 POST /login?next=%2F (24.48.65.206) 105.27ms
+[I 16:24:23.287 NotebookApp] 302 GET / (24.48.65.206) 0.43ms
+[I 16:24:27.432 NotebookApp] Creating new notebook in 
+[I 16:24:28.565 NotebookApp] Kernel started: 75bc539d-348f-4e58-a76b-fdefef83037f, name: python3
+[I 16:24:31.553 NotebookApp] Starting buffering for 75bc539d-348f-4e58-a76b-fdefef83037f:3edf16bc0ec64502971f65deef3aa3c3
+[I 16:24:40.826 NotebookApp] interrupted
+Serving notebooks from local directory: /home/clemencegranade/assignments/ass4
+1 active kernel
+Jupyter Notebook 6.1.4 is running at:
+https://ip-172-31-6-178:8888/
+Shutdown this notebook server (y/[n])? [C 16:24:42.377 NotebookApp] received signal 2, stopping
+[I 16:24:42.377 NotebookApp] Shutting down 1 kernel
+[I 16:24:42.578 NotebookApp] Kernel shutdown: 75bc539d-348f-4e58-a76b-fdefef83037f
+[I 16:24:42.579 NotebookApp] Shutting down 0 terminals
+
